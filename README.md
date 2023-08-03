@@ -3,7 +3,7 @@
 <html>
 <body>
 <h2>Privacy Policy</h2>
-<p> Serendib Global built the [App Name] app as a [open source | free | freemium | ad-supported | commercial] app. This SERVICE is provided by Serendib Global at no cost and is intended for use as is.</p>
+<p> Serendib Global built the Mocco.lk app as a free app. This Service is provided by Serendib Global at no cost and is intended for use as is.</p>
 <p>This page is used to inform website visitors regarding our policies with the collection, use, and
     disclosure of Personal Information if anyone decided to use our Service.</p>
 <p>If you choose to use our Service, then you agree to the collection and use of information in
@@ -19,14 +19,14 @@
 <p>The app does use third party services that may collect information used to identify you.
 
 <p><strong>Log Data</strong></p>
-<p>[I|We] want to inform you that whenever you use our Service, in case of an error in the app we collect
+<p> We want to inform you that whenever you use our Service, in case of an error in the app we collect
     data and information on your phone called Log Data. This Log Data
     may include information such as your devices’s Internet Protocol (“IP”) address, device name,
     operating system version, configuration of the app when utilising [my|our] Service, the time and date
     of your use of the Service, and other statistics.</p>
 
 <p><strong>Service Providers</strong></p> 
-<p>[I|We] may employ third-party companies and individuals due to the following reasons:</p>
+<p>We may employ third-party companies and individuals due to the following reasons:</p>
 <ul>
     <li>To facilitate our Service;</li>
     <li>To provide the Service on our behalf;</li>
